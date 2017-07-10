@@ -7,7 +7,7 @@
 			<li Class="CombatExtended.PatchOperationFindMod">
 				<modName>Weapon Tech A17</modName>
 			</li>
-			<!-- Arquebus -->
+			<!-- Arquebus ->
 			<li Class="CombatExtended.PatchOperationMakeGunCECompatible">
 				<defName>Gun_Arquebus</defName>
 				<statBases>

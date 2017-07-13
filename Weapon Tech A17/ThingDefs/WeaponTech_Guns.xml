@@ -221,7 +221,7 @@
 				<AmmoUser>
 					<magazineSize>10</magazineSize>
 					<reloadTime>3</reloadTime>
-					<ammoSet>Ammo303British</ammoSet>
+					<ammoSet>AmmoSet_303British</ammoSet>
 				</AmmoUser>
 				<FireModes>
 					<aimedBurstShotCount>3</aimedBurstShotCount>
